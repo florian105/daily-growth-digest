@@ -4,7 +4,7 @@ Automated daily digest of strategic insights for B2B CEOs, CROs & CMOs.
 
 Curates and analyzes the latest news in AI & Automation, Growth Marketing, and B2B SaaS using Claude AI.
 
-🔗 **Live:** [negreflorian.com/daily-digest-en](https://negreflorian.com/daily-digest-en)
+🔗 **Live:** [negreflorian.com/daily-digest-en](https://www.negreflorian.com/daily-digest-en)
 
 ---
 
