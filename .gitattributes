@@ -1,0 +1,5 @@
+# Force Python detection
+*.html linguist-vendored
+*.md linguist-documentation
+*.py linguist-detectable=true
+requirements.txt linguist-detectable=false
